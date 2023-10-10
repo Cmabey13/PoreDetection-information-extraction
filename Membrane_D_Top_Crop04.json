@@ -1,0 +1,1599 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Pore",
+      "points": [
+        [
+          220.0265780730897,
+          3.9867109634551494
+        ],
+        [
+          209.56146179401992,
+          11.627906976744185
+        ],
+        [
+          208.23255813953486,
+          25.91362126245847
+        ],
+        [
+          212.0531561461794,
+          36.04651162790697
+        ],
+        [
+          220.0265780730897,
+          41.029900332225914
+        ],
+        [
+          230.32558139534882,
+          39.20265780730897
+        ],
+        [
+          237.96677740863785,
+          38.70431893687707
+        ],
+        [
+          244.94352159468437,
+          34.883720930232556
+        ],
+        [
+          245.44186046511626,
+          25.58139534883721
+        ],
+        [
+          244.44518272425248,
+          15.11627906976744
+        ],
+        [
+          240.62458471760795,
+          10.96345514950166
+        ],
+        [
+          234.31229235880397,
+          8.970099667774086
+        ],
+        [
+          228.16611295681062,
+          5.315614617940199
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          148.09966777408636,
+          17.109634551495017
+        ],
+        [
+          134.31229235880397,
+          17.60797342192691
+        ],
+        [
+          131.8205980066445,
+          26.411960132890364
+        ],
+        [
+          128.4983388704319,
+          34.0531561461794
+        ],
+        [
+          128.9966777408638,
+          42.19269102990033
+        ],
+        [
+          136.13953488372093,
+          50.16611295681063
+        ],
+        [
+          142.61794019933555,
+          49.833887043189364
+        ],
+        [
+          146.77076411960132,
+          47.67441860465116
+        ],
+        [
+          151.25581395348837,
+          44.352159468438536
+        ],
+        [
+          153.24916943521595,
+          38.20598006644518
+        ],
+        [
+          156.40531561461793,
+          30.06644518272425
+        ],
+        [
+          153.24916943521595,
+          18.770764119601328
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          90.29235880398672,
+          61.46179401993355
+        ],
+        [
+          104.57807308970101,
+          60.46511627906976
+        ],
+        [
+          112.71760797342193,
+          56.31229235880398
+        ],
+        [
+          119.36212624584718,
+          48.006644518272424
+        ],
+        [
+          122.51827242524918,
+          41.5282392026578
+        ],
+        [
+          122.18604651162791,
+          30.564784053156142
+        ],
+        [
+          120.5249169435216,
+          20.26578073089701
+        ],
+        [
+          115.7076411960133,
+          14.784053156146179
+        ],
+        [
+          104.74418604651163,
+          13.122923588039866
+        ],
+        [
+          91.7873754152824,
+          13.78737541528239
+        ],
+        [
+          82.31893687707642,
+          20.7641196013289
+        ],
+        [
+          78.66445182724253,
+          26.744186046511626
+        ],
+        [
+          74.67774086378738,
+          40.199335548172755
+        ],
+        [
+          75.8405315614618,
+          49.667774086378735
+        ],
+        [
+          81.156146179402,
+          53.820598006644516
+        ],
+        [
+          84.8106312292359,
+          59.46843853820597
+        ],
+        [
+          88.79734219269103,
+          60.6312292358804
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          85.14285714285715,
+          75.91362126245846
+        ],
+        [
+          82.98338870431894,
+          65.11627906976744
+        ],
+        [
+          77.66777408637874,
+          57.14285714285714
+        ],
+        [
+          72.85049833887044,
+          50.99667774086378
+        ],
+        [
+          65.54152823920266,
+          46.34551495016611
+        ],
+        [
+          53.58139534883721,
+          46.843853820598
+        ],
+        [
+          50.59136212624585,
+          51.16279069767442
+        ],
+        [
+          48.76411960132891,
+          57.30897009966777
+        ],
+        [
+          50.92358803986711,
+          66.27906976744185
+        ],
+        [
+          56.23920265780732,
+          70.59800664451826
+        ],
+        [
+          67.03654485049834,
+          75.5813953488372
+        ],
+        [
+          72.51827242524918,
+          77.40863787375415
+        ],
+        [
+          79.66112956810632,
+          79.23588039867109
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          206.07308970099666,
+          102.1594684385382
+        ],
+        [
+          209.72757475083054,
+          114.95016611295681
+        ],
+        [
+          214.2126245847176,
+          121.2624584717608
+        ],
+        [
+          221.02325581395348,
+          122.59136212624584
+        ],
+        [
+          226.83720930232556,
+          122.09302325581395
+        ],
+        [
+          231.48837209302323,
+          119.43521594684384
+        ],
+        [
+          235.30897009966776,
+          116.61129568106311
+        ],
+        [
+          236.30564784053155,
+          110.29900332225913
+        ],
+        [
+          238.96345514950164,
+          99.33554817275747
+        ],
+        [
+          234.9767441860465,
+          91.0299003322259
+        ],
+        [
+          229.99335548172755,
+          86.54485049833886
+        ],
+        [
+          220.19269102990032,
+          83.88704318936877
+        ],
+        [
+          216.20598006644516,
+          83.5548172757475
+        ],
+        [
+          208.8970099667774,
+          88.03986710963454
+        ],
+        [
+          207.23588039867107,
+          93.687707641196
+        ],
+        [
+          205.57475083056477,
+          98.00664451827242
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          183.9800664451827,
+          107.4750830564784
+        ],
+        [
+          193.78073089700996,
+          103.65448504983388
+        ],
+        [
+          199.7607973421927,
+          95.34883720930232
+        ],
+        [
+          199.42857142857142,
+          79.40199335548172
+        ],
+        [
+          192.61794019933552,
+          74.25249169435216
+        ],
+        [
+          181.156146179402,
+          70.09966777408637
+        ],
+        [
+          171.1893687707641,
+          69.93355481727575
+        ],
+        [
+          163.38205980066445,
+          74.25249169435216
+        ],
+        [
+          160.89036544850498,
+          80.23255813953487
+        ],
+        [
+          161.0564784053156,
+          88.70431893687707
+        ],
+        [
+          161.5548172757475,
+          99.16943521594683
+        ],
+        [
+          168.19933554817274,
+          103.65448504983388
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          155.07641196013287,
+          105.14950166112956
+        ],
+        [
+          159.22923588039865,
+          95.84717607973421
+        ],
+        [
+          158.56478405315613,
+          87.20930232558139
+        ],
+        [
+          156.07308970099666,
+          79.23588039867109
+        ],
+        [
+          149.2624584717608,
+          72.9235880398671
+        ],
+        [
+          142.4518272425249,
+          72.59136212624584
+        ],
+        [
+          138.29900332225913,
+          72.75747508305648
+        ],
+        [
+          130.8239202657807,
+          80.56478405315615
+        ],
+        [
+          127.33554817275747,
+          84.88372093023256
+        ],
+        [
+          127.83388704318936,
+          93.85382059800664
+        ],
+        [
+          130.32558139534882,
+          99.83388704318936
+        ],
+        [
+          134.9767441860465,
+          103.98671096345514
+        ],
+        [
+          140.12624584717608,
+          105.31561461794018
+        ],
+        [
+          146.77076411960132,
+          106.14617940199335
+        ],
+        [
+          153.24916943521595,
+          105.64784053156146
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          113.54817275747509,
+          92.69102990033223
+        ],
+        [
+          121.52159468438539,
+          87.37541528239203
+        ],
+        [
+          124.3455149501661,
+          81.3953488372093
+        ],
+        [
+          124.843853820598,
+          77.07641196013289
+        ],
+        [
+          122.85049833887042,
+          71.76079734219269
+        ],
+        [
+          119.69435215946845,
+          65.9468438538206
+        ],
+        [
+          112.88372093023257,
+          61.96013289036544
+        ],
+        [
+          104.41196013289037,
+          62.7906976744186
+        ],
+        [
+          96.27242524916944,
+          66.11295681063122
+        ],
+        [
+          91.7873754152824,
+          73.25581395348837
+        ],
+        [
+          92.61794019933555,
+          81.72757475083056
+        ],
+        [
+          95.10963455149502,
+          93.52159468438538
+        ],
+        [
+          98.59800664451828,
+          95.68106312292358
+        ],
+        [
+          108.73089700996678,
+          95.01661129568106
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          101.9202657807309,
+          112.95681063122923
+        ],
+        [
+          100.75747508305649,
+          100.16611295681062
+        ],
+        [
+          94.27906976744187,
+          88.70431893687707
+        ],
+        [
+          85.47508305647841,
+          84.05315614617939
+        ],
+        [
+          72.01993355481729,
+          89.36877076411959
+        ],
+        [
+          63.54817275747508,
+          94.35215946843853
+        ],
+        [
+          59.395348837209305,
+          100.33222591362126
+        ],
+        [
+          59.8936877076412,
+          114.78405315614617
+        ],
+        [
+          65.2093023255814,
+          119.60132890365448
+        ],
+        [
+          69.19601328903656,
+          125.41528239202657
+        ],
+        [
+          80.6578073089701,
+          127.07641196013289
+        ],
+        [
+          89.1295681063123,
+          128.07308970099666
+        ],
+        [
+          96.43853820598008,
+          124.91694352159467
+        ],
+        [
+          99.59468438538207,
+          121.76079734219269
+        ],
+        [
+          99.92691029900332,
+          114.95016611295681
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          47.43521594684386,
+          113.95348837209302
+        ],
+        [
+          46.77076411960133,
+          105.98006644518271
+        ],
+        [
+          39.96013289036545,
+          96.67774086378736
+        ],
+        [
+          29.162790697674424,
+          93.687707641196
+        ],
+        [
+          18.863787375415292,
+          91.69435215946844
+        ],
+        [
+          9.229235880398681,
+          95.51495016611295
+        ],
+        [
+          0.9235880398671199,
+          99.66777408637873
+        ],
+        [
+          0.2591362126245951,
+          127.40863787375415
+        ],
+        [
+          8.564784053156155,
+          130.56478405315613
+        ],
+        [
+          16.704318936877087,
+          132.3920265780731
+        ],
+        [
+          31.32225913621263,
+          132.89036544850498
+        ],
+        [
+          37.46843853820599,
+          128.7375415282392
+        ],
+        [
+          42.784053156146186,
+          121.76079734219269
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          112.0531561461794,
+          118.1063122923588
+        ],
+        [
+          106.57142857142858,
+          118.60465116279069
+        ],
+        [
+          100.42524916943522,
+          124.41860465116278
+        ],
+        [
+          101.08970099667775,
+          134.21926910299
+        ],
+        [
+          104.24584717607974,
+          141.69435215946842
+        ],
+        [
+          105.40863787375416,
+          146.01328903654485
+        ],
+        [
+          118.36544850498339,
+          147.50830564784053
+        ],
+        [
+          123.34883720930232,
+          145.3488372093023
+        ],
+        [
+          126.33887043189368,
+          141.0299003322259
+        ],
+        [
+          126.17275747508306,
+          132.0598006644518
+        ],
+        [
+          123.51495016611297,
+          128.57142857142856
+        ],
+        [
+          119.02990033222592,
+          122.59136212624584
+        ],
+        [
+          114.71096345514951,
+          119.60132890365448
+        ],
+        [
+          113.71428571428572,
+          119.10299003322258
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          147.7674418604651,
+          108.13953488372093
+        ],
+        [
+          143.11627906976744,
+          110.46511627906976
+        ],
+        [
+          139.2956810631229,
+          119.93355481727573
+        ],
+        [
+          138.79734219269102,
+          126.74418604651162
+        ],
+        [
+          145.27574750830564,
+          131.72757475083054
+        ],
+        [
+          151.25581395348837,
+          131.3953488372093
+        ],
+        [
+          156.73754152823918,
+          129.734219269103
+        ],
+        [
+          161.88704318936877,
+          124.75083056478404
+        ],
+        [
+          164.54485049833886,
+          121.76079734219269
+        ],
+        [
+          164.37873754152824,
+          114.28571428571428
+        ],
+        [
+          160.89036544850498,
+          108.47176079734218
+        ],
+        [
+          151.08970099667772,
+          106.81063122923587
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          196.93687707641195,
+          140.03322259136212
+        ],
+        [
+          207.73421926910297,
+          138.8704318936877
+        ],
+        [
+          213.7142857142857,
+          134.88372093023256
+        ],
+        [
+          213.88039867109632,
+          126.24584717607972
+        ],
+        [
+          211.22259136212622,
+          120.59800664451826
+        ],
+        [
+          207.73421926910297,
+          117.109634551495
+        ],
+        [
+          203.7475083056478,
+          112.7906976744186
+        ],
+        [
+          199.09634551495014,
+          111.96013289036544
+        ],
+        [
+          185.80730897009965,
+          112.95681063122923
+        ],
+        [
+          180.49169435215944,
+          113.62126245847175
+        ],
+        [
+          177.66777408637873,
+          123.25581395348836
+        ],
+        [
+          176.00664451827242,
+          133.38870431893687
+        ],
+        [
+          183.9800664451827,
+          138.37209302325581
+        ],
+        [
+          193.6146179401993,
+          140.531561461794
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          244.27906976744185,
+          174.25249169435216
+        ],
+        [
+          252.08637873754154,
+          165.94684385382058
+        ],
+        [
+          253.7475083056478,
+          163.62126245847176
+        ],
+        [
+          252.41860465116278,
+          153.65448504983388
+        ],
+        [
+          253.91362126245846,
+          143.85382059800662
+        ],
+        [
+          249.26245847176077,
+          140.531561461794
+        ],
+        [
+          243.78073089700996,
+          141.36212624584718
+        ],
+        [
+          237.96677740863785,
+          140.19933554817274
+        ],
+        [
+          234.81063122923587,
+          138.53820598006644
+        ],
+        [
+          229.32890365448503,
+          134.7176079734219
+        ],
+        [
+          221.52159468438538,
+          131.8936877076412
+        ],
+        [
+          213.04983388704318,
+          134.88372093023256
+        ],
+        [
+          210.72425249169433,
+          138.37209302325581
+        ],
+        [
+          209.3953488372093,
+          142.6910299003322
+        ],
+        [
+          209.3953488372093,
+          151.6611295681063
+        ],
+        [
+          211.38870431893687,
+          156.4784053156146
+        ],
+        [
+          213.2159468438538,
+          161.2956810631229
+        ],
+        [
+          217.20265780730895,
+          162.45847176079732
+        ],
+        [
+          220.0265780730897,
+          165.11627906976742
+        ],
+        [
+          226.5049833887043,
+          170.09966777408636
+        ],
+        [
+          232.9833887043189,
+          173.25581395348837
+        ],
+        [
+          239.46179401993354,
+          174.91694352159467
+        ],
+        [
+          242.4518272425249,
+          175.24916943521595
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          118.19933554817277,
+          187.54152823920265
+        ],
+        [
+          125.17607973421927,
+          182.22591362126244
+        ],
+        [
+          127.50166112956812,
+          176.2458471760797
+        ],
+        [
+          128.66445182724252,
+          169.7674418604651
+        ],
+        [
+          128.9966777408638,
+          162.12624584717608
+        ],
+        [
+          124.67774086378738,
+          156.64451827242524
+        ],
+        [
+          120.19269102990033,
+          153.8205980066445
+        ],
+        [
+          117.03654485049834,
+          150.9966777408638
+        ],
+        [
+          112.71760797342193,
+          150.4983388704319
+        ],
+        [
+          103.91362126245848,
+          153.98671096345512
+        ],
+        [
+          98.43189368770764,
+          162.95681063122922
+        ],
+        [
+          95.10963455149502,
+          171.42857142857142
+        ],
+        [
+          96.6046511627907,
+          179.73421926910297
+        ],
+        [
+          100.42524916943522,
+          184.55149501661128
+        ],
+        [
+          105.5747508305648,
+          186.54485049833886
+        ],
+        [
+          114.37873754152824,
+          187.375415282392
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          151.58803986710961,
+          208.97009966777406
+        ],
+        [
+          148.09966777408636,
+          193.85382059800662
+        ],
+        [
+          142.78405315614617,
+          187.54152823920265
+        ],
+        [
+          132.48504983388705,
+          184.7176079734219
+        ],
+        [
+          119.19601328903656,
+          189.20265780730895
+        ],
+        [
+          118.03322259136213,
+          201.49501661129565
+        ],
+        [
+          118.36544850498339,
+          208.47176079734217
+        ],
+        [
+          121.18936877076412,
+          214.28571428571428
+        ],
+        [
+          125.84053156146179,
+          220.265780730897
+        ],
+        [
+          134.64451827242524,
+          222.9235880398671
+        ],
+        [
+          141.12292358803987,
+          220.7641196013289
+        ],
+        [
+          146.77076411960132,
+          218.10631229235878
+        ],
+        [
+          148.93023255813952,
+          213.953488372093
+        ],
+        [
+          150.9235880398671,
+          211.2956810631229
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          147.26910299003322,
+          191.36212624584715
+        ],
+        [
+          152.5847176079734,
+          214.61794019933552
+        ],
+        [
+          158.06644518272424,
+          216.1129568106312
+        ],
+        [
+          167.53488372093022,
+          215.28239202657807
+        ],
+        [
+          176.83720930232556,
+          209.80066445182723
+        ],
+        [
+          183.31561461794018,
+          205.14950166112956
+        ],
+        [
+          183.14950166112956,
+          195.68106312292358
+        ],
+        [
+          176.17275747508305,
+          187.375415282392
+        ],
+        [
+          173.01661129568106,
+          185.54817275747507
+        ],
+        [
+          161.5548172757475,
+          181.56146179401992
+        ],
+        [
+          151.9202657807309,
+          187.375415282392
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          177.66777408637873,
+          189.70099667774085
+        ],
+        [
+          184.64451827242524,
+          182.22591362126244
+        ],
+        [
+          189.2956810631229,
+          176.2458471760797
+        ],
+        [
+          189.7940199335548,
+          166.94352159468437
+        ],
+        [
+          186.63787375415282,
+          158.97009966777406
+        ],
+        [
+          182.9833887043189,
+          150.16611295681062
+        ],
+        [
+          178.16611295681062,
+          138.37209302325581
+        ],
+        [
+          172.51827242524917,
+          134.38538205980066
+        ],
+        [
+          163.54817275747507,
+          134.0531561461794
+        ],
+        [
+          158.3986710963455,
+          136.2126245847176
+        ],
+        [
+          158.23255813953486,
+          142.85714285714283
+        ],
+        [
+          158.3986710963455,
+          151.82724252491693
+        ],
+        [
+          159.72757475083054,
+          158.63787375415282
+        ],
+        [
+          162.55149501661128,
+          172.25913621262458
+        ],
+        [
+          163.88039867109634,
+          177.7408637873754
+        ],
+        [
+          169.0299003322259,
+          181.3953488372093
+        ],
+        [
+          170.19269102990032,
+          184.0531561461794
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          199.7607973421927,
+          203.8205980066445
+        ],
+        [
+          208.8970099667774,
+          200.49833887043187
+        ],
+        [
+          225.0099667774086,
+          189.36877076411957
+        ],
+        [
+          227.66777408637873,
+          177.7408637873754
+        ],
+        [
+          224.17940199335547,
+          171.42857142857142
+        ],
+        [
+          218.69767441860463,
+          167.94019933554816
+        ],
+        [
+          208.06644518272424,
+          166.27906976744185
+        ],
+        [
+          202.91694352159467,
+          166.27906976744185
+        ],
+        [
+          197.60132890365446,
+          169.10299003322257
+        ],
+        [
+          193.28239202657807,
+          171.7607973421927
+        ],
+        [
+          189.46179401993354,
+          176.07973421926908
+        ],
+        [
+          188.29900332225913,
+          186.87707641196013
+        ],
+        [
+          188.46511627906975,
+          195.01661129568106
+        ],
+        [
+          190.95681063122922,
+          201.6611295681063
+        ],
+        [
+          195.77408637873754,
+          202.49169435215944
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          95.77408637873755,
+          208.30564784053155
+        ],
+        [
+          103.58139534883722,
+          207.30897009966776
+        ],
+        [
+          109.22923588039868,
+          206.81063122923587
+        ],
+        [
+          112.0531561461794,
+          205.14950166112956
+        ],
+        [
+          114.04651162790698,
+          197.17607973421926
+        ],
+        [
+          113.21594684385383,
+          195.3488372093023
+        ],
+        [
+          108.89700996677742,
+          192.85714285714283
+        ],
+        [
+          103.58139534883722,
+          192.0265780730897
+        ],
+        [
+          96.43853820598008,
+          192.6910299003322
+        ],
+        [
+          94.9435215946844,
+          197.00996677740864
+        ],
+        [
+          91.12292358803988,
+          199.00332225913618
+        ],
+        [
+          93.11627906976744,
+          206.31229235880397
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          90.62458471760799,
+          174.75083056478405
+        ],
+        [
+          96.6046511627907,
+          165.4485049833887
+        ],
+        [
+          103.58139534883722,
+          155.14950166112956
+        ],
+        [
+          102.91694352159469,
+          145.8471760797342
+        ],
+        [
+          100.59136212624585,
+          142.35880398671094
+        ],
+        [
+          96.77076411960134,
+          140.19933554817274
+        ],
+        [
+          87.96677740863788,
+          143.1893687707641
+        ],
+        [
+          79.66112956810632,
+          146.67774086378736
+        ],
+        [
+          74.01328903654486,
+          148.83720930232556
+        ],
+        [
+          71.35548172757476,
+          158.97009966777406
+        ],
+        [
+          71.52159468438539,
+          165.4485049833887
+        ],
+        [
+          78.33222591362127,
+          169.7674418604651
+        ],
+        [
+          83.48172757475083,
+          172.09302325581393
+        ],
+        [
+          88.46511627906978,
+          173.25581395348837
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          94.77740863787376,
+          140.3654485049834
+        ],
+        [
+          92.11960132890366,
+          130.8970099667774
+        ],
+        [
+          83.8139534883721,
+          127.90697674418604
+        ],
+        [
+          76.50498338870433,
+          126.24584717607972
+        ],
+        [
+          64.37873754152825,
+          127.7408637873754
+        ],
+        [
+          62.21926910299003,
+          136.37873754152824
+        ],
+        [
+          63.0498338870432,
+          141.19601328903653
+        ],
+        [
+          69.02990033222592,
+          146.17940199335547
+        ],
+        [
+          73.01661129568107,
+          149.33554817275746
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          66.20598006644519,
+          163.953488372093
+        ],
+        [
+          67.86710963455151,
+          154.15282392026577
+        ],
+        [
+          64.87707641196015,
+          144.51827242524917
+        ],
+        [
+          58.730897009966775,
+          137.70764119601327
+        ],
+        [
+          52.75083056478406,
+          136.04651162790697
+        ],
+        [
+          44.11295681063123,
+          136.71096345514948
+        ],
+        [
+          44.4451827242525,
+          143.02325581395348
+        ],
+        [
+          46.10631229235881,
+          150.33222591362124
+        ],
+        [
+          48.43189368770764,
+          158.63787375415282
+        ],
+        [
+          54.578073089701,
+          162.62458471760797
+        ],
+        [
+          62.21926910299003,
+          163.62126245847176
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          125.50830564784054,
+          221.9269102990033
+        ],
+        [
+          121.18936877076412,
+          216.27906976744185
+        ],
+        [
+          116.03986710963456,
+          212.62458471760795
+        ],
+        [
+          109.39534883720931,
+          212.95681063122922
+        ],
+        [
+          100.2591362126246,
+          214.4518272425249
+        ],
+        [
+          99.92691029900332,
+          223.9202657807309
+        ],
+        [
+          105.24252491694352,
+          230.73089700996675
+        ],
+        [
+          110.22591362126246,
+          236.8770764119601
+        ],
+        [
+          120.69102990033223,
+          236.3787375415282
+        ],
+        [
+          126.00664451827244,
+          234.0531561461794
+        ],
+        [
+          127.83388704318936,
+          232.3920265780731
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Pore",
+      "points": [
+        [
+          55.74086378737542,
+          43.85382059800664
+        ],
+        [
+          46.77076411960133,
+          38.70431893687707
+        ],
+        [
+          41.62126245847177,
+          34.0531561461794
+        ],
+        [
+          49.760797342192696,
+          28.239202657807308
+        ],
+        [
+          57.90033222591362,
+          26.411960132890364
+        ],
+        [
+          63.54817275747508,
+          30.06644518272425
+        ],
+        [
+          64.54485049833887,
+          35.880398671096344
+        ],
+        [
+          63.0498338870432,
+          40.365448504983384
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Membrane_D_Top_Crop04.JPG",
+  "imageData": "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",
+  "imageHeight": 256,
+  "imageWidth": 256
+}
